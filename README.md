@@ -7,5 +7,7 @@ Here you can find and download supplemental material of different papers I wrote
 
 
 if you have any questions please feel free to contact me 
+
 paolo.tecchio95@gmail.com         <-- Personal e-Mail
+
 paolo.tecchio@ruhr-uni-bohcum.de  <-- Work e-Mail
