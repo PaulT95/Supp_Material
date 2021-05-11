@@ -1,7 +1,7 @@
 # Supp_Material
 Supplemental Material of Papers
 
-Here you can find and download supplemental material of different papers I wrote or partecipated
+Here you can find and download supplemental material of different papers  that I wrote or partecipated
 
 
 
