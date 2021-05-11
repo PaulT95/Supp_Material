@@ -10,4 +10,4 @@ if you have any questions please feel free to contact me
 
 paolo.tecchio95@gmail.com         <-- Personal e-Mail
 
-paolo.tecchio@ruhr-uni-bohcum.de  <-- Work e-Mail
+paolo.tecchio@ruhr-uni-bochum.de  <-- Work e-Mail
